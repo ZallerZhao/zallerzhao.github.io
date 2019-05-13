@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>How to get JetBrains Free License</title>
+      <link href="/2019/05/08/jetbrains/"/>
+      <url>/2019/05/08/jetbrains/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="为什么是JetBrains？"><a href="#为什么是JetBrains？" class="headerlink" title="为什么是JetBrains？"></a>为什么是JetBrains？</h3><ul><li><p>根据官网的说明，这份来自<strong>JetBrains</strong>的全家桶非常丰盛</p><img src="/2019/05/08/jetbrains/JetB_img00000.png" title="这是一个图片"></li></ul><h3 id="为什么要申请？"><a href="#为什么要申请？" class="headerlink" title="为什么要申请？"></a>为什么要申请？</h3><p>网络上关于教育邮箱的教程玲琅满目，这里就简单说一下没有edu邮箱的同学如何使用学生证进行Free License的申请，毕竟破解版会存在一些神奇的bug导致难以挽回的损失（其实是想大家都能力所能及地支持正版）</p><h3 id="如何申请？"><a href="#如何申请？" class="headerlink" title="如何申请？"></a>如何申请？</h3><p>首先，我们打开JetBrains的官网：<a href="https://www.jetbrains.com" target="_blank" rel="noopener">https://www.jetbrains.com</a></p><ul><li><p>选择<code>Support</code>下的<code>Education</code></p><img src="/2019/05/08/jetbrains/JetB_img00002.png" title="这是一个图片"></li><li><p>选择<code>Apply for free student pack</code></p><img src="/2019/05/08/jetbrains/JetB_img00003.png" title="这是一个图片"></li><li><p>对于第一种校园邮箱的申请方式，不再赘诉。只介绍<code>OFFICIAL DOCUMENT</code>的申请方式</p><img src="/2019/05/08/jetbrains/JetB_img00004.png" title="这是一个图片"></li><li><p>选择个人身份（教师 OR 学生）并完善姓名、邮箱地址和国家信息，勾选必要的框框。</p><img src="/2019/05/08/jetbrains/JetB_img00005.png" title="这是一个图片"></li><li><p>上传<code>Official Document</code>时一定要清晰，必要时可以抹掉照片的EXFI信息</p></li><li><p>在<code>Comment</code>里用英语描述一下自己申请的原因等（可选）</p><img src="/2019/05/08/jetbrains/JetB_img00006.png" title="这是一个图片"></li><li><p>确认无误后，点击最下方的<code>Apply for free products</code></p></li><li><p>最后会看到申请已提交成功的页面</p><img src="/2019/05/08/jetbrains/JetB_img00001.png" title="这是一个图片"></li></ul><p>稍安勿躁，等待官方给出邮件回复。</p><img src="/2019/05/08/jetbrains/JetB_img00007.png" title="这是一个图片"><p>通常几个工作日之后就会收到来自官方的问候：</p><img src="/2019/05/08/jetbrains/JetB_img00008.png" title="这是一个图片"><p>点击<code>Activate Education License</code>所指向的链接，注册（Sign Up <strong>NOT</strong> Sign In）一下JetBrains的帐户（用于绑定Education License及日常激活使用各Products），成功获得授权码。</p><img src="/2019/05/08/jetbrains/JetB_img00009.png" title="这是一个图片"><p>接下来的日子里，终于可以愉快地享用全家桶了，比如Ultimate版本的intelliJ IDEA Ultimate。许可证的有效期为一年，到期后Renew 一下我们的Education Pack即可。</p><p>另外，使用Toolbox App可以将所有的全家桶一次性打包回家，其Multiple product versions 的管理还是很方便的，大概是这样子的：</p><p>最后希望大家都能找到适合自己的开发工具，力所能及地<strong>支持正版</strong>！！！</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Tools;Free License </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
